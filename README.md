@@ -25,6 +25,7 @@ Future revisions intend to add a screen and interactives to the board to further
 * Added a screen header
 * Fixed a regulator issue on the radio portion
 * bundled CAD files into production folders <=2.1
+* Added JTAG test pads for rev 2.1.1
 ```
 
 ## Docs

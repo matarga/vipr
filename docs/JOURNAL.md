@@ -62,3 +62,9 @@ Some issues were included in revision 2 that would prevent stable operation of t
 That's all.
 
 -Matias
+
+# Aug 5th: Revision 3
+
+Currently the schematic is updated to have an SD Card, a neopixel LED, and a DPAD to make sure the final is a functioning prototype. Also the schematic has been sorted out into boxes per each component. Good.
+
+-Matias
