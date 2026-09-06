@@ -1,0 +1,89 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   KiCAD/main/customlib.pretty/HYCW01-4D-4P-DZ.kicad_mod
+#	new file:   KiCAD/main/customlib.pretty/Hot_Sym.kicad_mod
+#	new file:   KiCAD/main/customlib.pretty/SW-TH_3P-L5.8_WSGT-3P-CC.kicad_mod
+#	modified:   KiCAD/main/finals/rev 2.1/main.kicad_dru
+#	modified:   KiCAD/main/finals/rev 2.1/main.kicad_pcb
+#	new file:   KiCAD/main/finals/rev 2.1/main.kicad_prl
+#	deleted:    KiCAD/main/main-backups/main-2026-07-02_163340.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-02_164322.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-02_183727.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-02_190126.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-02_214452.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-02_215302.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-02_215303.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-03_180100.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-03_205136.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-03_220149.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-04_163837.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-04_174527.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-06_134426.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-06_135256.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-06_141710.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-06_141711.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-06_153913.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-06_153915.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-06_195013.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-06_195017.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-09_090256.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-15_205131.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-15_205626.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-16_153427.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-16_154132.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-16_155052.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-16_155053.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-19_080611.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-22_163206.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-22_233608.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-22_233615.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-24_183822.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-24_185148.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-24_185511.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-24_185530.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-24_214701.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-26_105317.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-27_103837.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-27_103932.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-27_113237.zip
+#	deleted:    KiCAD/main/main-backups/main-2026-07-27_171610.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-05_104703.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-05_222447.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-05_223510.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-05_224350.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-05_224438.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-05_230309.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-05_233744.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-05_233942.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-06_103623.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-06_103627.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-06_103630.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-06_105059.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-06_113043.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-06_113116.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-06_114620.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-06_170801.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-06_180958.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-06_210203.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-06_210204.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-09_195715.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-10_103459.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-10_112036.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-10_164635.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-10_170125.zip
+#	new file:   KiCAD/main/main-backups/main-2026-08-10_170525.zip
+#	modified:   KiCAD/main/main.kicad_dru
+#	modified:   KiCAD/main/main.kicad_pcb
+#	modified:   KiCAD/main/main.kicad_prl
+#	modified:   KiCAD/main/main.kicad_pro
+#	modified:   KiCAD/main/main.kicad_sch
+#	new file:   KiCAD/main/~main.kicad_pcb.lck
+#
+Rev 3 done!

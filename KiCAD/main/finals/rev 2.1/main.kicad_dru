@@ -1,1 +1,11 @@
 (version 1)
+
+(rule "Ignore pad clearance in U3 courtyard"
+  (constraint clearance (min 0mm))
+  (condition "A.intersectsCourtyard('U3') && B.intersectsCourtyard('U3')")
+)
+
+(rule "Ignore pad clearance in U7 courtyard"
+  (constraint clearance (min 0mm))
+  (condition "A.intersectsCourtyard('U7') && B.intersectsCourtyard('U7')")
+)

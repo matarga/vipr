@@ -1,0 +1,12 @@
+LTspice 26.0.2 for Windows
+Circuit: Z:\home\matias\VIPER\KiCAD\main\Draft1.net
+Start Time: Fri Aug 21 10:21:02 2026
+Z:\home\matias\VIPER\KiCAD\main\Draft1.net(2): Undefined model "c".
+C1 XOUT XIN C
+            ^
+Z:\home\matias\VIPER\KiCAD\main\Draft1.net(3): Undefined model "c".
+C2 XOUT 0 C
+          ^
+Z:\home\matias\VIPER\KiCAD\main\Draft1.net(4): Undefined model "c".
+C3 XIN 0 C
+         ^

@@ -1,0 +1,204 @@
+Z:\home\matias\VIPER\KiCAD\main\main.cir(3): syntax error
+.save all
+      ^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(4): Expected device instantiation or directive here.
+.probe alli
+^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(5): Expected device instantiation or directive here.
+.probe p(R14)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(6): Expected device instantiation or directive here.
+.probe p(R17)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(7): Expected device instantiation or directive here.
+.probe p(R15)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(8): Expected device instantiation or directive here.
+.probe p(R16)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(9): Expected device instantiation or directive here.
+.probe p(R13)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(10): Expected device instantiation or directive here.
+.probe p(C8)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(11): Expected device instantiation or directive here.
+.probe p(R18)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(12): Expected device instantiation or directive here.
+.probe p(C20)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(13): Expected device instantiation or directive here.
+.probe p(R6)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(14): Expected device instantiation or directive here.
+.probe p(R3)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(15): Expected device instantiation or directive here.
+.probe p(C9)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(16): Expected device instantiation or directive here.
+.probe p(C19)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(17): Expected device instantiation or directive here.
+.probe p(R12)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(18): Expected device instantiation or directive here.
+.probe p(R11)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(19): Expected device instantiation or directive here.
+.probe p(R2)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(20): Expected device instantiation or directive here.
+.probe p(R1)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(21): Expected device instantiation or directive here.
+.probe p(C4)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(22): Expected device instantiation or directive here.
+.probe p(C3)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(23): Expected device instantiation or directive here.
+.probe p(C2)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(24): Expected device instantiation or directive here.
+.probe p(C14)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(25): Expected device instantiation or directive here.
+.probe p(C11)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(26): Expected device instantiation or directive here.
+.probe p(C13)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(27): Expected device instantiation or directive here.
+.probe p(R5)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(28): Expected device instantiation or directive here.
+.probe p(L2)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(29): Expected device instantiation or directive here.
+.probe p(C10)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(30): Expected device instantiation or directive here.
+.probe p(R4)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(31): Expected device instantiation or directive here.
+.probe p(C6)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(32): Expected device instantiation or directive here.
+.probe p(C7)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(33): Expected device instantiation or directive here.
+.probe p(C12)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(34): Expected device instantiation or directive here.
+.probe p(L1)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(35): Expected device instantiation or directive here.
+.probe p(C17)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(36): Expected device instantiation or directive here.
+.probe p(C18)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(37): Expected device instantiation or directive here.
+.probe p(R7)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(38): Expected device instantiation or directive here.
+.probe p(C16)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(39): Expected device instantiation or directive here.
+.probe p(C1)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(40): Expected device instantiation or directive here.
+.probe p(C15)
+^^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(41): Expected device instantiation or directive here.
+.probe p(C5)
+^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(46): Expected nodes here.
+J4 __J4
+   ^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(49): Expected node name here.
+D3 __D3
+       ^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(49): Expected device instantiation or directive here.
+D3 __D3
+^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(52): Expected node name here.
+SW4 __SW4
+         ^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(52): Expected device instantiation or directive here.
+SW4 __SW4
+^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(53): Expected node name here.
+SW2 __SW2
+         ^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(53): Expected device instantiation or directive here.
+SW2 __SW2
+^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(56): Expected nodes here.
+J2 __J2
+   ^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(61): Expected nodes here.
+U4 __U4
+   ^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(62): Expected nodes here.
+J1 __J1
+   ^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(67): Expected nodes here.
+J3 __J3
+   ^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(69): Expected nodes here.
+TDI1 __TDI1
+     ^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(70): Expected nodes here.
+TDO1 __TDO1
+     ^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(71): Expected nodes here.
+TCK1 __TCK1
+     ^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(72): Expected nodes here.
+TMS1 __TMS1
+     ^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(75): Expected nodes here.
+U3 __U3
+   ^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(79): Expected node name here.
+FL1 __FL1
+         ^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(79): Expected device instantiation or directive here.
+FL1 __FL1
+^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(80): Expected nodes here.
+U1 __U1
+   ^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(87): Expected nodes here.
+U7 __U7
+   ^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(90): Expected nodes here.
+U2 __U2
+   ^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(93): Unknown parameter
+BT1 CHRG_BAT GND Battery_Cell
+                 ^^^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(94): Expected node name here.
+D2 __D2
+       ^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(94): Expected device instantiation or directive here.
+D2 __D2
+^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(97): Expected node name here.
+SW1 __SW1
+         ^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(97): Expected device instantiation or directive here.
+SW1 __SW1
+^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(99): Expected nodes here.
+U6 U6.MIC5219
+   ^^^^^^^^^^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(100): Expected node name here.
+D1 __D1
+       ^
+Z:\home\matias\VIPER\KiCAD\main\main.cir(100): Expected device instantiation or directive here.
+D1 __D1
+^^^^^^^

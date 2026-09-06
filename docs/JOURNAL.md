@@ -68,3 +68,9 @@ That's all.
 Currently the schematic is updated to have an SD Card, a neopixel LED, and a DPAD to make sure the final is a functioning prototype. Also the schematic has been sorted out into boxes per each component. Good.
 
 -Matias
+
+# Sep 5th: A rebirth to a dying project.
+
+I've not been able to work on this project for almost a month now because of school but now I can work weekends whenever possible. You may ask: "What's new"?. For starters, I've added a ton of stuff to the schematic, the device has adopted a RPI02W form factor of 30mm by 65 mm and M2.5 mounting screws. So far, I've repositoned the battery connecter and am working on transfering components to the new board, I have a problem though... the battery connector is way too big to fit under the display (curse you 2 pin JST). I'm looking on LCSC for identical connectors to the device capable of 5V and 1A loads. Im don't know how I''m going to solve it for now but I know for a fact it will be done, I'm trying to achive the pwnagatchi form factor (a long dead device) making updates hourly.
+
+-Matias

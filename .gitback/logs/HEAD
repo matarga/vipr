@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 51d0dc93995592b5091939f109a1fd90196c857a Goog-hash <argedonamatias@gmail.com> 1783044032 -0400	clone: from https://github.com/goog-yaml/VIPER
+51d0dc93995592b5091939f109a1fd90196c857a 00023aa896be263505d5fa5e580b5dba2ddec8bb Goog-hash <argedonamatias@gmail.com> 1783044123 -0400	commit: started schematic and PCB
+00023aa896be263505d5fa5e580b5dba2ddec8bb 29b300da3a6dd0203582e8a5e99008b5d8985b35 Goog-hash <argedonamatias@gmail.com> 1783376594 -0400	commit: started repo and creation
+29b300da3a6dd0203582e8a5e99008b5d8985b35 5531a17b2d8ad548c52fa9f079adb8fac48296b2 Goog-hash <argedonamatias@gmail.com> 1783379737 -0400	commit: finished rev1.2 and started JOURNAL
+5531a17b2d8ad548c52fa9f079adb8fac48296b2 c98a5111e31eb9407908c7635df7192d5cccc4dd Goog-hash <argedonamatias@gmail.com> 1783381022 -0400	commit: fixed markdown typo
+c98a5111e31eb9407908c7635df7192d5cccc4dd aecc4f0c2397872a73eca80c798d52a44dbca84f Goog-hash <argedonamatias@gmail.com> 1785273045 -0400	commit: rev 2!
+aecc4f0c2397872a73eca80c798d52a44dbca84f 08a083433390ddc4dcb6a4879fdd7f5ad0f7d5bc Goog-hash <argedonamatias@gmail.com> 1785273134 -0400	commit: rev 2!
+08a083433390ddc4dcb6a4879fdd7f5ad0f7d5bc 11c18bae0f77b782b3d335ae3debb3379c42aa80 Goog-hash <argedonamatias@gmail.com> 1785273200 -0400	commit: Rev2!
+11c18bae0f77b782b3d335ae3debb3379c42aa80 818988b6429255ed9c00098afabc187e37078d25 Goog-hash <argedonamatias@gmail.com> 1785290984 -0400	commit: spruced up README
+818988b6429255ed9c00098afabc187e37078d25 6b657095af224e19341e75b10359a2e9c34f44a3 Goog-hash <argedonamatias@gmail.com> 1785291142 -0400	commit: spruced README
+6b657095af224e19341e75b10359a2e9c34f44a3 2458e36813de82eb7736b9196a22cc029982b13e Goog-hash <argedonamatias@gmail.com> 1785291328 -0400	commit: fixed banner
+2458e36813de82eb7736b9196a22cc029982b13e e2107f5b50993edf59cf1d093614a99ee61c07e4 Goog-hash <argedonamatias@gmail.com> 1785291462 -0400	commit: fixed banner
+e2107f5b50993edf59cf1d093614a99ee61c07e4 7bb290ac6cacf89cb34c098d806d8893eb467a08 Goog-hash <argedonamatias@gmail.com> 1785430935 -0400	commit: added screen to rev 2 and bumped version to 2.1
+7bb290ac6cacf89cb34c098d806d8893eb467a08 4cf6d41788059760747894fea492b8f0843df1d7 Goog-hash <argedonamatias@gmail.com> 1785936557 -0400	commit: added a huge schematic overhaul
+4cf6d41788059760747894fea492b8f0843df1d7 ce352aa3ea0a442adac0e80b93be62ae61733687 Goog-hash <argedonamatias@gmail.com> 1786491294 -0400	commit: Rev 3 done!

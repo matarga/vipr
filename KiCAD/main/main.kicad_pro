@@ -720,6 +720,18 @@
           "label": "LCSC Part #",
           "name": "LSLC Part #",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Name",
+          "name": "Sim.Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Library",
+          "name": "Sim.Library",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -758,6 +770,14 @@
     "meta": {
       "version": 1
     },
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -770,7 +790,7 @@
         "uuid": "fed9c1d1-b9d4-4965-8a23-e7401f62a789"
       }
     ],
-    "used_designators": "#FLG1,TMS1,L2-6,TP1-15,Q1-2,U2-3,U5-7,U9,D3,C5,C8-9,C12-14,C17-29,#SYM1,H1-2,J3-6,TCK1,FL1-2,#PWR1,#PWR3,#PWR6,#PWR10-14,#PWR18-39,SW2-6,TDI1,R3,R5-6,R8-21,TDO1",
+    "used_designators": "#PWR1,#PWR3,#PWR6,#PWR10-14,#PWR18-39,D3-5,#SYM1,J3-6,L2-6,TDO1,H1-4,R3,R5-6,R8-21,TP1-15,C5,C8-9,C12-14,C17-29,U2-3,U5-7,U9,SW2-6,Q1-2,TDI1,TMS1,#FLG1,FL1-2,TCK1",
     "variants": []
   },
   "sheets": [
