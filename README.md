@@ -6,6 +6,8 @@ Simply put, VIPR is a open source radio node designed and built around North Ame
 
 **VIPR is currently in Alpha testing, soon to be beta!**
 
+I'm planning on spinning this project idea and base into another, thinking aboutthe name of ProtopadZero
+
 ## Current Revision
 
 ![Render1](main.png)
