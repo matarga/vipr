@@ -587,15 +587,15 @@
     "netclass_patterns": [
       {
         "netclass": "+3.3V",
-        "pattern": "VCC*"
-      },
-      {
-        "netclass": "5V",
-        "pattern": "V+"
+        "pattern": "+3.3V"
       },
       {
         "netclass": "5V",
         "pattern": "5V"
+      },
+      {
+        "netclass": "5V",
+        "pattern": "V+"
       }
     ]
   },
@@ -614,7 +614,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 0
+      "sort_order": 1
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -787,15 +787,15 @@
       {
         "filename": "main.kicad_sch",
         "name": "",
-        "uuid": "fed9c1d1-b9d4-4965-8a23-e7401f62a789"
+        "uuid": "404d1fe7-019d-42b7-b54c-646cb66b7dc1"
       }
     ],
-    "used_designators": "#PWR1,#PWR3,#PWR6,#PWR10-14,#PWR18-39,D3-5,#SYM1,J3-6,L2-6,TDO1,H1-4,R3,R5-6,R8-21,TP1-15,C5,C8-9,C12-14,C17-29,U2-3,U5-7,U9,SW2-6,Q1-2,TDI1,TMS1,#FLG1,FL1-2,TCK1",
+    "used_designators": "TP1-15,U1-7,U9,SW1-6,C1-29,#PWR1-39,D1-5,#SYM1,J1-6,H1-4,BT1,R1-21,Q1-2,TDI1,TMS1,#FLG1,TDO1,L1-6,FL1-2,TCK1",
     "variants": []
   },
   "sheets": [
     [
-      "fed9c1d1-b9d4-4965-8a23-e7401f62a789",
+      "404d1fe7-019d-42b7-b54c-646cb66b7dc1",
       ""
     ]
   ],
